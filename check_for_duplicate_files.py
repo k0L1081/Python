@@ -95,4 +95,5 @@ if __name__ == '__main__':
     # Print out the duplicate files and their group IDs.
     print(df_duplicate_files)
 
+    # Print write summary.
     print(''); print('Data frame of duplicate files written to:', output_file)
